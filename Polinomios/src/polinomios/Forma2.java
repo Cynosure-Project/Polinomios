@@ -131,7 +131,8 @@ public class Forma2 {
         P3.setDu(0);
 
     }
-      public void RedimensionarP(){
+    
+    public void RedimensionarP(){
         int V[], i;
         
         V = new int[Du+1];
